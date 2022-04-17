@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CurrencyDemo</string>
+    <string name="load_data">Load data</string>
+    <string name="open_currency">Open currency</string>
+
+    <string name="msg_loading_file_error">Loading went wrong</string>
+    <string name="msg_data_inserted_successfully">Data inserted successfully</string>
+    <string name="toast_data_already_inserted">Data already inserted</string>
+</resources>
